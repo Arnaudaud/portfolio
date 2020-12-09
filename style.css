@@ -1,0 +1,55 @@
+html{
+font-family:Caviar Dreams;
+}
+
+															/* media queries */
+.titre {
+text-align: left;
+font-family:Caviar Dreams;
+color: white;
+margin-top: 500px;
+margin-left: 150px;								/* effet titre */
+font-size: xx-large;
+float: top;
+white-space: nowrap;
+text-shadow: 5px 2px 12px #000000
+}
+
+.titre span {
+color: #80C5FF;									/* effet Portfolio */
+font-style: ;
+}
+
+
+body {
+color: white;
+background-color: white;
+background-image: url(backindex.png);			/* effet body */
+background-repeat: no-repeat;
+background-attachment: none;
+background-size: 100%; 
+}
+
+.sanssautdeligne {white-space: nowrap;}              /* sans saut de ligne */
+
+h2 {
+text-align: top;
+font-family:Caviar Dreams;
+color: #80C5FF;	
+margin-top: 20px;
+}
+
+.sommaire {
+text-align: top;	
+color: white;
+margin-right: 200px;
+float: right;
+}
+
+.titre2 {
+color: #80C5FF;	
+text-align: center;
+margin-top: 10px;
+
+}
+
